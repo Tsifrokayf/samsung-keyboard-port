@@ -14,10 +14,9 @@ Ports of the Samsung Keyboard (honeyboard), Keys Cafe and Theme Park to non-Sams
 
 ## Installation
 
-1. If you already have another build of the Samsung Keyboard installed, **uninstall it first** (the package now uses a shared user id, so installing over a build with a different one fails).
-2. Install the three APKs: Samsung Keyboard, then Keys Cafe, then Theme Park.
-3. Enable the keyboard in Android settings (Language and input) and select it.
-4. Grant the media permission if Theme Park asks for it.
+1. Install the three APKs: Samsung Keyboard, then Keys Cafe, then Theme Park.
+2. Enable the keyboard in Android settings (Language and input) and select it.
+3. Grant the media permission if Theme Park asks for it.
 
 ## What works
 
@@ -61,10 +60,9 @@ Developer: [Tsifrokayf](https://github.com/Tsifrokayf)
 
 ## Установка
 
-1. Если уже стоит другая сборка Samsung Keyboard, **сначала удали её** (теперь пакет использует общий user id, поэтому установка поверх сборки с другим id не проходит).
-2. Установи три APK: Samsung Keyboard, затем Keys Cafe, затем Theme Park.
-3. Включи клавиатуру в настройках Android (Язык и ввод) и выбери её.
-4. Дай разрешение на доступ к медиа, если его попросит Theme Park.
+1. Установи три APK: Samsung Keyboard, затем Keys Cafe, затем Theme Park.
+2. Включи клавиатуру в настройках Android (Язык и ввод) и выбери её.
+3. Дай разрешение на доступ к медиа, если его попросит Theme Park.
 
 ## Что работает
 
