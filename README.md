@@ -8,9 +8,9 @@ Ports of the Samsung Keyboard (honeyboard), Keys Cafe and Theme Park to non-Sams
 
 | App | Release | Version |
 |---|---|---|
-| Samsung Keyboard | [honeyboard](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/honeyboard) | 5.9.40.48, |
-| Keys Cafe | [keyscafe](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/keyscafe) | 1.7.00.13 |
-| Theme Park | [themepark](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/themepark) | 1.1.02.2 |
+| Samsung Keyboard | [honeyboard](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/honeyboard-v43) | 5.9.40.48 |
+| Keys Cafe | [keyscafe](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/keyscafe-v12) | 1.7.00.13 |
+| Theme Park | [themepark](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/themepark-v9) | 1.1.02.2 |
 
 ## Installation
 
@@ -54,9 +54,9 @@ Developer: [Tsifrokayf](https://github.com/Tsifrokayf)
 
 | Приложение | Релиз | Версия |
 |---|---|---|
-| Samsung Keyboard | [honeyboard](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/honeyboard) | 5.9.40.48 |
-| Keys Cafe | [keyscafe](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/keyscafe) | 1.7.00.13 |
-| Theme Park | [themepark](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/themepark) | 1.1.02.2 |
+| Samsung Keyboard | [honeyboard](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/honeyboard-v43) | 5.9.40.48 |
+| Keys Cafe | [keyscafe](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/keyscafe-v12) | 1.7.00.13 |
+| Theme Park | [themepark](https://github.com/Tsifrokayf/samsung-keyboard-port/releases/tag/themepark-v9) | 1.1.02.2 |
 
 ## Установка
 
